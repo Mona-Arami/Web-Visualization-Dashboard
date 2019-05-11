@@ -70,9 +70,6 @@ body {
     border-color: #ffffff;
 }
 
-.navbar-custom .navbar-toggler-icon {
-	background-image: url(Resources/Images/menu-icon.png);
-}
 
 .navbar-custom {
     background-color:#a1a0a2;
